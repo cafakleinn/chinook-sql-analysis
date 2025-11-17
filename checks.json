@@ -1,0 +1,130 @@
+[
+    {
+        "id": "0891903e-9656-47c1-bc84-a41dee610c81",
+        "directives": {
+            "solution": null,
+            "masterOnly": null,
+            "workUnit": null,
+            "check": true,
+            "test": null,
+            "title": "simple_1",
+            "grade": 1.0,
+            "match": "exact",
+            "normalize": null
+        },
+        "text": "Match expected file",
+        "type": "stdout"
+    },
+    {
+        "id": "04bcc6d8-56a0-41ad-aeaa-2ad2337b4cd8",
+        "directives": {
+            "solution": null,
+            "masterOnly": null,
+            "workUnit": null,
+            "check": true,
+            "test": null,
+            "title": "simple_2",
+            "grade": 1.0,
+            "match": "exact",
+            "normalize": null
+        },
+        "text": "Match expected file",
+        "type": "stdout"
+    },
+    {
+        "id": "5ed8c5e1-d5b0-4271-8df9-5a9a7bd01e04",
+        "directives": {
+            "solution": null,
+            "masterOnly": null,
+            "workUnit": null,
+            "check": true,
+            "test": null,
+            "title": "simple_3",
+            "grade": 1.0,
+            "match": "exact",
+            "normalize": null
+        },
+        "text": "Match expected file",
+        "type": "stdout"
+    },
+    {
+        "id": "c063747b-922f-42fb-87ef-2bc15590eb4e",
+        "directives": {
+            "solution": null,
+            "masterOnly": null,
+            "workUnit": null,
+            "check": true,
+            "test": null,
+            "title": "complex_1",
+            "grade": 2.0,
+            "match": "exact",
+            "normalize": null
+        },
+        "text": "Match expected file",
+        "type": "stdout"
+    },
+    {
+        "id": "43cccb6c-351b-4b8e-a58d-ddca8b249d17",
+        "directives": {
+            "solution": null,
+            "masterOnly": null,
+            "workUnit": null,
+            "check": true,
+            "test": null,
+            "title": "complex_2",
+            "grade": 2.0,
+            "match": "exact",
+            "normalize": null
+        },
+        "text": "Match expected file",
+        "type": "stdout"
+    },
+    {
+        "id": "6b5464ce-9619-4800-a7b8-c8afe7b35127",
+        "directives": {
+            "solution": null,
+            "masterOnly": null,
+            "workUnit": null,
+            "check": true,
+            "test": null,
+            "title": "complex_3",
+            "grade": 2.0,
+            "match": "exact",
+            "normalize": null
+        },
+        "text": "Match expected file",
+        "type": "stdout"
+    },
+    {
+        "id": "d0dbf465-8667-4a5c-8391-0c62a2a9d213",
+        "directives": {
+            "solution": null,
+            "masterOnly": null,
+            "workUnit": null,
+            "check": true,
+            "test": null,
+            "title": "hard_1",
+            "grade": 3.0,
+            "match": "exact",
+            "normalize": null
+        },
+        "text": "Match expected file",
+        "type": "stdout"
+    },
+    {
+        "id": "68b9b9ec-7cd6-4bee-9991-ff38d6b30162",
+        "directives": {
+            "solution": null,
+            "masterOnly": null,
+            "workUnit": null,
+            "check": true,
+            "test": null,
+            "title": "hard_2",
+            "grade": 3.0,
+            "match": "exact",
+            "normalize": null
+        },
+        "text": "Match expected file",
+        "type": "stdout"
+    }
+]

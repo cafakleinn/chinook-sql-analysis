@@ -1,0 +1,26 @@
+     customer_name     |           email           | total_spent 
+-----------------------+---------------------------+-------------
+ Helena Holý           | hholy@gmail.com           |       49.62
+ Richard Cunningham    | ricunningham@hotmail.com  |       47.62
+ Luis Rojas            | luisrojas@yahoo.cl        |       46.62
+ Ladislav Kovács       | ladislav_kovacs@apple.hu  |       45.62
+ Hugh O'Reilly         | hughoreilly@apple.ie      |       45.62
+ Frank Ralston         | fralston@gmail.com        |       43.62
+ Fynn Zimmermann       | fzimmermann@yahoo.de      |       43.62
+ Julia Barnett         | jubarnett@gmail.com       |       43.62
+ Victor Stevens        | vstevens@yahoo.com        |       42.62
+ Astrid Gruber         | astrid.gruber@apple.at    |       42.62
+ Terhi Hämäläinen      | terhi.hamalainen@apple.fi |       41.62
+ František Wichterlová | frantisekw@jetbrains.com  |       40.62
+ Isabelle Mercier      | isabelle_mercier@apple.fr |       40.62
+ Johannes Van der Berg | johavanderberg@yahoo.nl   |       40.62
+ Wyatt Girard          | wyatt.girard@yahoo.fr     |       39.62
+ François Tremblay     | ftremblay@gmail.com       |       39.62
+ Jack Smith            | jacksmith@microsoft.com   |       39.62
+ Dan Miller            | dmiller@comcast.com       |       39.62
+ Heather Leacock       | hleacock@gmail.com        |       39.62
+ João Fernandes        | jfernandes@yahoo.pt       |       39.62
+ Luís Gonçalves        | luisg@embraer.com.br      |       39.62
+ Bjørn Hansen          | bjorn.hansen@yahoo.no     |       39.62
+(22 rows)
+

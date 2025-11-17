@@ -1,0 +1,63 @@
+     genre_name     | rank_in_genre |                                title                                 | quantity_sold 
+--------------------+---------------+----------------------------------------------------------------------+---------------
+ Alternative        |             1 | Revelations                                                          |             5
+ Alternative        |             2 | Carry On                                                             |             4
+ Alternative        |             3 | Temple of the Dog                                                    |             4
+ Alternative & Punk |             1 | Acústico                                                             |            22
+ Alternative & Punk |             2 | International Superhits                                              |            18
+ Alternative & Punk |             3 | The Best Of R.E.M.: The IRS Years                                    |            17
+ Blues              |             1 | The Cream Of Clapton                                                 |            15
+ Blues              |             2 | Unplugged                                                            |            12
+ Blues              |             3 | In Step                                                              |             9
+ Bossa Nova         |             1 | Vinícius De Moraes - Sem Limite                                      |            15
+ Classical          |             1 | Bach: Orchestral Suites Nos. 1 - 4                                   |             2
+ Classical          |             2 | Berlioz: Symphonie Fantastique                                       |             2
+ Classical          |             3 | Purcell: Music for the Queen Mary                                    |             2
+ Comedy             |             1 | The Office, Season 3                                                 |             9
+ Drama              |             1 | Heroes, Season 1                                                     |            11
+ Drama              |             2 | Lost, Season 3                                                       |            10
+ Drama              |             3 | LOST, Season 4                                                       |             5
+ Easy Listening     |             1 | My Way: The Best Of Frank Sinatra [Disc 1]                           |            10
+ Electronica/Dance  |             1 | Radio Brasil (O Som da Jovem Vanguarda) - Seleccao de Henrique Amaro |             7
+ Electronica/Dance  |             2 | The Return Of The Space Cowboy                                       |             5
+ Heavy Metal        |             1 | Dance Of Death                                                       |             5
+ Heavy Metal        |             2 | Killers                                                              |             5
+ Heavy Metal        |             3 | Live After Death                                                     |             2
+ Hip Hop/Rap        |             1 | Os Cães Ladram Mas A Caravana Não Pára                               |             9
+ Hip Hop/Rap        |             2 | House of Pain                                                        |             8
+ Jazz               |             1 | Up An' Atom                                                          |            17
+ Jazz               |             2 | Heart of the Night                                                   |            11
+ Jazz               |             3 | Blue Moods                                                           |             9
+ Latin              |             1 | Minha Historia                                                       |            27
+ Latin              |             2 | Prenda Minha                                                         |            19
+ Latin              |             3 | Acústico MTV                                                         |            18
+ Metal              |             1 | Chemical Wedding                                                     |            12
+ Metal              |             2 | Garage Inc. (Disc 2)                                                 |            12
+ Metal              |             3 | Mezmerize                                                            |            12
+ Pop                |             1 | Instant Karma: The Amnesty International Campaign to Save Darfur     |            16
+ Pop                |             2 | Axé Bahia 2001                                                       |             6
+ Pop                |             3 | Frank                                                                |             6
+ R&B/Soul           |             1 | Back to Black                                                        |            12
+ R&B/Soul           |             2 | Sex Machine                                                          |            12
+ R&B/Soul           |             3 | Seek And Shall Find: More Of The Best (1963-1981)                    |            10
+ Reggae             |             1 | Acústico MTV [Live]                                                  |             9
+ Reggae             |             2 | UB40 The Best Of - Volume Two [UK]                                   |             8
+ Reggae             |             3 | Cidade Negra - Hits                                                  |             7
+ Rock               |             1 | Greatest Kiss                                                        |            20
+ Rock               |             2 | Chronicle, Vol. 2                                                    |            19
+ Rock               |             3 | My Generation - The Very Best Of The Who                             |            19
+ Rock And Roll      |             1 | BackBeat Soundtrack                                                  |             6
+ Science Fiction    |             1 | Battlestar Galactica, Season 3                                       |             6
+ Sci Fi & Fantasy   |             1 | Battlestar Galactica (Classic), Season 1                             |            18
+ Sci Fi & Fantasy   |             2 | Battlestar Galactica, Season 3                                       |             2
+ Soundtrack         |             1 | Original Soundtracks 1                                               |             9
+ Soundtrack         |             2 | Carnaval 2001                                                        |             6
+ Soundtrack         |             3 | As Canções de Eu Tu Eles                                             |             5
+ TV Shows           |             1 | Lost, Season 1                                                       |            10
+ TV Shows           |             2 | Lost, Season 2                                                       |            10
+ TV Shows           |             3 | The Office, Season 3                                                 |             7
+ World              |             1 | Cafezinho                                                            |             6
+ World              |             2 | Demorou...                                                           |             6
+ World              |             3 | Muso Ko                                                              |             1
+(59 rows)
+

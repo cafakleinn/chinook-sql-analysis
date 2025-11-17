@@ -1,0 +1,66 @@
+     artist_name      |               album_title                |                          track_name                          
+----------------------+------------------------------------------+--------------------------------------------------------------
+ Aaron Goldberg       | Worlds                                   | OAM's Blues
+ Aisha Duo            | Quiet Songs                              | Amanda
+ Aisha Duo            | Quiet Songs                              | Despertar
+ Antônio Carlos Jobim | Warner 25 Anos                           | Corcovado (Quiet Nights Of Quiet Stars)
+ Antônio Carlos Jobim | Warner 25 Anos                           | Desafinado
+ Antônio Carlos Jobim | Warner 25 Anos                           | Dindi (Dindi)
+ Antônio Carlos Jobim | Warner 25 Anos                           | Fotografia
+ Antônio Carlos Jobim | Warner 25 Anos                           | Garota De Ipanema
+ Antônio Carlos Jobim | Warner 25 Anos                           | Outra Vez
+ Antônio Carlos Jobim | Warner 25 Anos                           | Samba De Uma Nota Só (One Note Samba)
+ Antônio Carlos Jobim | Warner 25 Anos                           | Se Todos Fossem Iguais A Você (Instrumental)
+ Billy Cobham         | The Best Of Billy Cobham                 | Quadrant
+ Billy Cobham         | The Best Of Billy Cobham                 | Snoopy's search-Red baron
+ Billy Cobham         | The Best Of Billy Cobham                 | Stratus
+ Billy Cobham         | The Best Of Billy Cobham                 | The pleasant pheasant
+ Dennis Chambers      | Outbreak                                 | In Time
+ Dennis Chambers      | Outbreak                                 | Paris On Mine
+ Dennis Chambers      | Outbreak                                 | Plan B
+ Dennis Chambers      | Outbreak                                 | Roll Call
+ Dennis Chambers      | Outbreak                                 | Talkin Loud and Saying Nothin
+ Gene Krupa           | Up An' Atom                              | Coronation Drop
+ Gene Krupa           | Up An' Atom                              | Disc Jockey Jump
+ Gene Krupa           | Up An' Atom                              | Imagination
+ Gene Krupa           | Up An' Atom                              | I'm Coming Virginia
+ Gene Krupa           | Up An' Atom                              | Jeepers Creepers
+ Gene Krupa           | Up An' Atom                              | Leave Us Leap
+ Gene Krupa           | Up An' Atom                              | Midget
+ Gene Krupa           | Up An' Atom                              | Payin' Them Dues Blues
+ Gene Krupa           | Up An' Atom                              | Swedish Schnapps
+ Gilberto Gil         | Quanta Gente Veio ver--Bônus De Carnaval | Doce De Carnaval (Candy All)
+ Gilberto Gil         | Quanta Gente Veio ver--Bônus De Carnaval | Pretinha
+ Incognito            | Blue Moods                               | Dark Side Of The Cog
+ Incognito            | Blue Moods                               | Gypsy
+ Incognito            | Blue Moods                               | Journey Into Sunlight
+ Incognito            | Blue Moods                               | Love Is The Colour
+ Incognito            | Blue Moods                               | Sunchild
+ Miles Davis          | Miles Ahead                              | Blues For Pablo
+ Miles Davis          | Miles Ahead                              | I Don't Wanna Be Kissed (By Anyone But You) (Alternate Take)
+ Miles Davis          | Miles Ahead                              | Miles Ahead
+ Miles Davis          | Miles Ahead                              | New Rhumba
+ Miles Davis          | Miles Ahead                              | Springsville
+ Miles Davis          | Miles Ahead                              | Springsville (Alternate Take)
+ Miles Davis          | Miles Ahead                              | The Maids Of Cadiz
+ Miles Davis          | Miles Ahead                              | The Meaning Of The Blues/Lament (Alternate Take)
+ Miles Davis          | The Essential Miles Davis [Disc 1]       | Generique
+ Miles Davis          | The Essential Miles Davis [Disc 1]       | New Rhumba
+ Miles Davis          | The Essential Miles Davis [Disc 1]       | Now's The Time
+ Miles Davis          | The Essential Miles Davis [Disc 1]       | Someday My Prince Will Come
+ Miles Davis          | The Essential Miles Davis [Disc 1]       | Summertime
+ Miles Davis          | The Essential Miles Davis [Disc 1]       | Tempus Fugit
+ Miles Davis          | The Essential Miles Davis [Disc 1]       | Walkin'
+ Miles Davis          | The Essential Miles Davis [Disc 2]       | Little Church (Live)
+ Miles Davis          | The Essential Miles Davis [Disc 2]       | Miles Runs The Voodoo Down
+ Miles Davis          | The Essential Miles Davis [Disc 2]       | My Funny Valentine (Live)
+ Miles Davis          | The Essential Miles Davis [Disc 2]       | Petits Machins (Little Stuff)
+ Miles Davis          | The Essential Miles Davis [Disc 2]       | Portia
+ Miles Davis          | The Essential Miles Davis [Disc 2]       | Time After Time
+ Spyro Gyra           | Heart of the Night                       | Heart of the Night
+ Spyro Gyra           | Heart of the Night                       | Midnight
+ Spyro Gyra           | Heart of the Night                       | Westwood Moon
+ Spyro Gyra           | Morning Dance                            | Jubilee
+ Spyro Gyra           | Morning Dance                            | Morning Dance
+(62 rows)
+

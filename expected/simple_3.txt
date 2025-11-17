@@ -1,0 +1,12 @@
+     full_name      |         email          |    city     
+--------------------+------------------------+-------------
+ Brown, Robert      | robbrown@shaw.ca       | Toronto
+ Francis, Edward    | edfrancis@yachoo.ca    | Ottawa
+ Mitchell, Aaron    | aaronmitchell@yahoo.ca | Winnipeg
+ Peterson, Jennifer | jenniferp@rogers.ca    | Vancouver
+ Philips, Mark      | mphilips12@shaw.ca     | Edmonton
+ Silk, Martha       | marthasilk@gmail.com   | Halifax
+ Sullivan, Ellie    | ellie.sullivan@shaw.ca | Yellowknife
+ Tremblay, François | ftremblay@gmail.com    | Montréal
+(8 rows)
+
